@@ -17,7 +17,6 @@ Xây dựng một dịch vụ web sử dụng .NET Core và kết nối với c�
   "DatabaseName": "BookStore",
   "BooksCollectionName": "Books"
 }
-```
 
 ## Kết quả đạt được
 - Xây dựng thành công một dịch vụ web sử dụng .NET Core và MongoDB.

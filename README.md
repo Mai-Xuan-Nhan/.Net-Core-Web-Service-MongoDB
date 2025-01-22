@@ -12,11 +12,10 @@ Xây dựng một dịch vụ web sử dụng .NET Core và kết nối với c�
 ## Quá trình thực hiện
 - Thực hiện theo hướng dẫn của thầy
 - Lưu ý thêm đoạn code dưới vào file appsettings
-  ```{
+  ```
   "ConnectionString": "mongodb://localhost:27017",
   "DatabaseName": "BookStore",
   "BooksCollectionName": "Books"
-}
 
 ## Kết quả đạt được
 - Xây dựng thành công một dịch vụ web sử dụng .NET Core và MongoDB.
